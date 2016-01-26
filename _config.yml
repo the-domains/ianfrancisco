@@ -1,0 +1,28 @@
+name: ianfrancisco
+favicon: null
+layout_spectrum: 0.0907173512969166
+typography_spectrum: 0.6308731245808303
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.7186528327874839
+  lightness: 0.9428825150243938
+  saturation: 0.283871834166348
+  rhythmicContrast: 0.22302623349241912
+purpose: []
