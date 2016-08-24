@@ -1,28 +1,40 @@
-name: ianfrancisco
-favicon: null
-layout_spectrum: 0.0907173512969166
-typography_spectrum: 0.6308731245808303
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.283871834166348
+  brandStrength: 0.7186528327874839
+  rhythmicContrast: 0.2230262334924191
   brandColors:
     - '#B8B42D'
     - '#697A21'
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
-  brandStrength: 0.7186528327874839
   lightness: 0.9428825150243938
-  saturation: 0.283871834166348
-  rhythmicContrast: 0.22302623349241912
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: ianfrancisco
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.6308731245808303
+layout_spectrum: 1
